@@ -74,9 +74,8 @@ Connect GitHub repo to Vercel, add all environment variables, deploy.
 
 ## Live Demo
 
-> **Google Sheets Output**: [View Sample Data](YOUR_SHEETS_LINK_HERE)
+> **Google Sheets Output**: [View Sample Data](https://docs.google.com/spreadsheets/d/1xrF_zAwd60hedHNOwnwkcPT8ptcdOlvhSeKiulNfOss/edit?usp=sharing)
 > 
-> *https://docs.google.com/spreadsheets/d/1xrF_zAwd60hedHNOwnwkcPT8ptcdOlvhSeKiulNfOss/edit?usp=sharing*
 
 ---
 
